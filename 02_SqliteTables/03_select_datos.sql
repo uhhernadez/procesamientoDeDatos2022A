@@ -1,0 +1,1 @@
+SELECT typeof(val), id, val FROM test_datatypes;
