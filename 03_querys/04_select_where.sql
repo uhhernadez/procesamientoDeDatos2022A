@@ -1,0 +1,1 @@
+SELECT first_name FROM contacts WHERE first_name='Rozella' OR first_name='Aja';

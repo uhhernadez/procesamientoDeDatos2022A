@@ -26,4 +26,4 @@ CREATE TABLE if not EXISTS contact_groups(
    FOREIGN KEY (group_id) REFERENCES groups (group_id) 
 );
 
-insert OR ignore into contact_groups (contact_id, group_id) values (1,2);
+insert OR ignore into contact_groups (contact_id, group_id) values (1,1);

@@ -1,0 +1,1 @@
+SELECT first_name FROM contacts WHERE first_name>'B' AND first_name < 'C'  ORDER BY first_name;

@@ -1,0 +1,1 @@
+SELECT first_name as apellido, email FROM contacts ORDER BY email;
