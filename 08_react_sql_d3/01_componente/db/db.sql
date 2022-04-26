@@ -1,0 +1,1 @@
+SELECT 02-02-2022 from casos_confirmados;
