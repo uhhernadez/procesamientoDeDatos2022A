@@ -13,6 +13,7 @@ const Datos = () => {
     message = message + data.length + ' rows\n';
     message = message + data.columns.length + ' columns';
     //console.log(message);
+    console.log(data[0]);
     actualizaMensaje(message);
   });
 
